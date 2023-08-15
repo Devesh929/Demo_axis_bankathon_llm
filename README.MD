@@ -3,8 +3,13 @@
 1. [Video Part 1](https://youtu.be/KSzL-K5EHS8)
    Description: Hiring Management Portal
 
-2. [Video Part 2](https://youtu.be/MZkPA5TDv0A)
+2. [Video Part 1](https://youtu.be/KSzL-K5EHS8)
    Description: Interview Management Portal
+
+for better quality you may download videos from these google drive links
+
+[Video Part 1](https://drive.google.com/file/d/1KatUZ5TfpQuLMNEEqaI6QThq_kxgtS7p/view?usp=drive_link)
+[Video Part 1](https://drive.google.com/file/d/1DtaGQzi6367KOPdc7ExXBXZCGxjqwG9z/view?usp=drive_link)
 
 ## Important Message
 
