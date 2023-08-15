@@ -17,4 +17,5 @@ for better quality you may download videos from these google drive links
 
 So uploading small chunks of data we used to fine tune model along with code.
 
+You can dowload trained model from this [link](https://gpt4all.io/models/ggml-gpt4all-j-v1.3-groovy.bin)
 
