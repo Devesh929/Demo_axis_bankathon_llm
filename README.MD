@@ -9,7 +9,7 @@
 for better quality you may download videos from these google drive links
 
 [Video Part 1](https://drive.google.com/file/d/1KatUZ5TfpQuLMNEEqaI6QThq_kxgtS7p/view?usp=drive_link)
-[Video Part 1](https://drive.google.com/file/d/1DtaGQzi6367KOPdc7ExXBXZCGxjqwG9z/view?usp=drive_link)
+[Video Part 2](https://drive.google.com/file/d/1DtaGQzi6367KOPdc7ExXBXZCGxjqwG9z/view?usp=drive_link)
 
 ## Important Message
 
